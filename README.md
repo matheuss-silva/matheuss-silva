@@ -20,4 +20,4 @@
   <img align="center" alt="py"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-Desenvolvedor Full Stack dedicado a criar soluções inovadoras para dispositivos móveis, comprometido com a ética e a excelência na área de Tecnologia da Informação.
+Desenvolvedor FullStack dedicado a criar soluções inovadoras para dispositivos móveis, comprometido com a ética e a excelência na área de Tecnologia da Informação.
